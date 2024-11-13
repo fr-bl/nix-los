@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-source ./install.sh
 
+source ./install.sh
 $SHELL
